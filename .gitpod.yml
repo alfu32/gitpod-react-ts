@@ -2,7 +2,7 @@
 image: jtech/react-typescript
 # Command to start on workspace startup (optional)
 tasks:
-  - init: yarn install
+  - init: yarn add create-react-app & yarn install
     command: yarn build
 
 # Ports to expose on workspace startup (optional)

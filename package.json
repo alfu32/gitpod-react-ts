@@ -1,8 +1,5 @@
 {
   "name": "gitpod-react-ts",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/alfu32/gitpod-react-ts.git",
-  "author": "Ioan ALferaru <ioan.alferaru@gmail.com>",
-  "license": "MIT"
+  "version": "0.1.0",
+  "private": true
 }
