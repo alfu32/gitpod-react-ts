@@ -4,6 +4,7 @@ image: jtech/react-typescript
 tasks:
   - init: yarn install
     command: yarn build
+
 # Ports to expose on workspace startup (optional)
 ports:
   - port: 8000
